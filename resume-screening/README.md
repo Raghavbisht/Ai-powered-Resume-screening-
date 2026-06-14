@@ -108,11 +108,6 @@ To deploy:
 
 ---
 
-## 👨‍💻 Author
-
-**Karuna**
-GitHub: https://github.com/Karuna-1512
-
 ---
 
 ## ⭐ If you like this project
