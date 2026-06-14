@@ -106,12 +106,7 @@ To deploy:
 * Add authentication system
 * Use advanced NLP models (BERT/GPT)
 
----
 
-## 👨‍💻 Author
-
-**Karuna**
-GitHub: https://github.com/Karuna-1512
 
 ---
 
